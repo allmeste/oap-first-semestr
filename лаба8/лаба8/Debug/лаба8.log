@@ -1,0 +1,4 @@
+﻿  лаба8.cpp
+C:\Users\37533\Documents\ОАП\лаб8\лаба8\лаба8\лаба8.cpp(4,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\37533\Documents\ОАП\лаб8\лаба8\лаба8\лаба8.cpp(6,16): warning C4305: инициализация: усечение из "double" в "float"
+  лаба8.vcxproj -> C:\Users\37533\Documents\ОАП\лаб8\лаба8\Debug\лаба8.exe
