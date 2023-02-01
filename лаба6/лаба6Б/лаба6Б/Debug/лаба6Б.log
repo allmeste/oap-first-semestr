@@ -1,0 +1,6 @@
+﻿  лаба6Б.cpp
+C:\Users\37533\Documents\ОАП\лаба6Б\лаба6Б\лаба6Б.cpp(4,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\37533\Documents\ОАП\лаба6Б\лаба6Б\лаба6Б.cpp(11,21): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\37533\Documents\ОАП\лаба6Б\лаба6Б\лаба6Б.cpp(12,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\37533\Documents\ОАП\лаба6Б\лаба6Б\лаба6Б.cpp(15,9): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  лаба6Б.vcxproj -> C:\Users\37533\Documents\ОАП\лаба6Б\Debug\лаба6Б.exe
