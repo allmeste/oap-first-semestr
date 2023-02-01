@@ -1,0 +1,4 @@
+﻿  доп7.cpp
+C:\Users\37533\Documents\ОАП\лаба7\доп7\доп7\доп7.cpp(4,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\37533\Documents\ОАП\лаба7\доп7\доп7\доп7.cpp(6,19): warning C4101: sum: неиспользованная локальная переменная
+  доп7.vcxproj -> C:\Users\37533\Documents\ОАП\лаба7\доп7\Debug\доп7.exe
