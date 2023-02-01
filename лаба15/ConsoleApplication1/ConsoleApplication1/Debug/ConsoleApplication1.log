@@ -1,0 +1,16 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\37533\Documents\ОАП\лаба15\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\37533\Documents\ОАП\лаба15\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(9,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\37533\Documents\ОАП\лаба15\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(36,6): error C2143: синтаксическая ошибка: отсутствие ";" перед "<<"
+C:\Users\37533\Documents\ОАП\лаба15\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(36,6): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\37533\Documents\ОАП\лаба15\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(37,6): error C2143: синтаксическая ошибка: отсутствие ";" перед "<<"
+C:\Users\37533\Documents\ОАП\лаба15\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(37,6): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\37533\Documents\ОАП\лаба15\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(37,1): error C2086: int cout: переопределение
+C:\Users\37533\Documents\ОАП\лаба15\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(36): message : см. объявление "cout"
+C:\Users\37533\Documents\ОАП\лаба15\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(38,6): error C2143: синтаксическая ошибка: отсутствие ";" перед "<<"
+C:\Users\37533\Documents\ОАП\лаба15\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(38,6): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\37533\Documents\ОАП\лаба15\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(38,1): error C2086: int cout: переопределение
+C:\Users\37533\Documents\ОАП\лаба15\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(36): message : см. объявление "cout"
+C:\Users\37533\Documents\ОАП\лаба15\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(40,1): error C2059: синтаксическая ошибка: delete
+C:\Users\37533\Documents\ОАП\лаба15\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(41,1): error C2059: синтаксическая ошибка: }
+C:\Users\37533\Documents\ОАП\лаба15\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(41,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
